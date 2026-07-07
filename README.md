@@ -1,7 +1,5 @@
 # 📊 RetailNova Sales Analytics Dashboard
 
-![Dashboard Preview](Dashboard/Dashboard.png)
-
 ## 📌 Project Overview
 
 The **RetailNova Sales Analytics Dashboard** is an end-to-end Data Analytics project developed using **Microsoft Excel, SQL, Power BI, DAX, and Power Query**. The project analyzes retail sales data to generate meaningful business insights through interactive dashboards and KPI reporting.
